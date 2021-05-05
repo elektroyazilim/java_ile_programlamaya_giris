@@ -1,0 +1,11 @@
+package polymorphismDemo;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// Polymorphism
+		BaseLogger[] loggers = new BaseLogger[]{new FileLogger(), new DatabaseLogger(), new EmailLogger()};
+		
+
+	}
+}

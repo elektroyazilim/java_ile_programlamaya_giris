@@ -1,0 +1,13 @@
+package classesWithAttribute;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// Attribute e sahip Class lar
+		
+		Product product = new Product();
+		product.setId(1);
+		System.out.println(product.getId());
+		
+	}
+}

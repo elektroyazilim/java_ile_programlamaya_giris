@@ -1,0 +1,10 @@
+package inheritanceDemo;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// Inheritance Özel
+		KrediUI krediUI = new KrediUI();
+		krediUI.KrediHesapla(new TarimKrediManager());
+	}
+}

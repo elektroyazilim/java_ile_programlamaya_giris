@@ -1,0 +1,12 @@
+package classesWithAttribute;
+
+public class ProductManager {
+	public void Add(Product product) {
+		// JDBC kodlarý kullanarak veritabanýna kaydedeceðiz.
+		System.out.println(product.name + " Ürün eklendi.");		
+	}
+	
+	public void Add2(int id, String name, String description, double price, int stockAmount) {
+		
+	}
+}

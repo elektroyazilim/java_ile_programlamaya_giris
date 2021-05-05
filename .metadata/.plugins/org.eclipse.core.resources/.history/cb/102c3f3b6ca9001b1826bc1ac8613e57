@@ -1,0 +1,20 @@
+package classesWithAttribute;
+
+public class Product {
+	// attribute | field
+	private int _id; // ürünü tanýmlayan eþsiz deðer
+	private String _name;
+	private String _description;
+	private double _price;
+	private int _stockAmount;	
+	private String _renk;
+	private String _kod;
+	
+	public int getId() {
+		return _id;
+	}
+	
+	public void setId(int id) {
+		_id = id;
+	}
+}

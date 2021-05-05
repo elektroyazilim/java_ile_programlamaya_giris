@@ -1,0 +1,10 @@
+package classesWithAttribute;
+
+public class Product {
+	// attribute | field
+	int id; // ürünü tanýmlayan eþsiz deðer
+	String name;
+	String description;
+	double price;
+	int stockAmount;	
+}

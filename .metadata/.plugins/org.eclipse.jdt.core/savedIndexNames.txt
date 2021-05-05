@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+E:\btk\java\java_ile_programlamaya_giris\codes\.metadata\.plugins\org.eclipse.jdt.core
+1642175237.index
+435225591.index
